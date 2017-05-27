@@ -4,5 +4,11 @@ This is a place where I play around with some algorithmic problems. The source o
 I am aiming to solve all of the problems in a few different languages, including Python, Java, C and Haskell.
 
 ## Questions
-1. Finding a pair of integers in an array that sum to a specific value
-2. Recycling letters from a printing press
+
+
+| # | Question                                                            | Python  | Java    |  C      | Haskell |
+|---|---------------------------------------------------------------------|---------|---------|---------|---------|
+| 1 | Finding a pair of integers in an array that sum to a specific value | O(n)    | Not yet | Not yet | Not yet |
+| 2 | Recycling letters from a printing press                             | Not yet | Not yet | Not yet | Not yet |
+
+
