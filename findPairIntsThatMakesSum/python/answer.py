@@ -39,7 +39,10 @@ def thirdSolution(array, desiredSum):
             i +=1
     return False
 
-
+# Once a hashmap is used for an aprioximate O(1) lookup time, the problem
+# can be solved by adding the observed number to a hashmap. Each
+# successive number will then check t see if its complament has been seen
+# before, and if so, then returns true.
 def extFirstSolution(array, desiredSum):
     seen = []                                                                   # TODO This should be a hashmap for O(1) lookup
     for elem in array:
