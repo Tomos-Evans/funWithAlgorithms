@@ -1,8 +1,8 @@
 
 
-# This is the simplist solution, however it is O(n^2) due to the iteration
+# This is the simplist solution, it is O(n) due to the iteration
 # though the list, and summing the list at the end.
-# This is too slow for us!
+# However this solution has an increased memory complexity of O(n)
 def firstSolution():
     number = 1000
     multiples = []
@@ -17,6 +17,8 @@ def firstSolution():
 # As we are only concerned with the sum of all of the multiples, it is not
 # neccisary to store the `multiples` list, we can instead just add to a rolling
 # total. This brings the algorithm to O(n)
+# In this solution however as we are not storing the new array there is an
+# increased memory complecity of O(1), which is much better
 def secondSolution():
     number = 1000
     total  = 0
@@ -30,7 +32,6 @@ def secondSolution():
 # compared to the upper limmit number, then this algrithm is  O(n+m)
 def extFirstSol(number, multiples):
     total  = 0
-
     for i in range(number):
         for m in multiples:
             if (i%m==0):
