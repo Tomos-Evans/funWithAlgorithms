@@ -10,6 +10,4 @@ I am aiming to solve all of the problems in a few different languages, including
 |---|---------------------------------------------------------------------|---------|---------|---------|---------|
 | [1](https://github.com/Tomos-Evans/funWithAlgorithms/blob/master/findPairIntsThatMakesSum) | Finding a pair of integers in an array that sum to a specific value | O(n)    | -       | -       | -       |
 | 2 | Recycling letters from a printing press                             | -       | -       | -       | -       |
-| [3](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/multiplesOf3and5) | Sum of all multiples of 3 and 5 less                                | O(n)    | -       | -       | -       |
-
-
+| [3](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/multiplesOf3and5) | Sum of all multiples of 3 and 5 less                                | O(n)    | -       | -       | O(n)       |
