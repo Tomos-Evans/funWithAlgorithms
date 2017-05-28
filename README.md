@@ -6,9 +6,10 @@ I am aiming to solve all of the problems in a few different languages, including
 ## Questions
 
 
-| # | Question                                                            | Python  | Java    |  C      | Haskell |
+|   | Question                                                            | Python  | Java    |  C      | Haskell |
 |---|---------------------------------------------------------------------|---------|---------|---------|---------|
-| 1 | Finding a pair of integers in an array that sum to a specific value | O(n)    | Not yet | Not yet | Not yet |
-| 2 | Recycling letters from a printing press                             | Not yet | Not yet | Not yet | Not yet |
+| [1](https://github.com/Tomos-Evans/funWithAlgorithms/blob/master/findPairIntsThatMakesSum) | Finding a pair of integers in an array that sum to a specific value | O(n)    | -       | -       | -       |
+| 2 | Recycling letters from a printing press                             | -       | -       | -       | -       |
+| [3](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/multiplesOf3and5) | Sum of all multiples of 3 and 5 less                                | O(n)    | -       | -       | -       |
 
 
