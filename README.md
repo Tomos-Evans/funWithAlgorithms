@@ -12,4 +12,4 @@ I am aiming to solve all of the problems in a few different languages, including
 | [2](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/recyclingPrintingPress)   | Recycling letters from a printing press                             | O(n+m)  | -       | -       | -       |
 | [3](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/multiplesOf3and5)         | Sum of all multiples of 3 and 5                                     | O(n)    | -       | -       | O(n)    |
 | [4](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/longestPalindrome)        | Longest Palendrome product of 3 digit numbers                       | O(n^2)  | -       | -       | -    |
-| [5](https://github.com/Tomos-Evans/funWithAlgorithms)        | Find the 10001st prime                       | Done  | -       | -       | -    |
+| [5](https://github.com/Tomos-Evans/funWithAlgorithms/tree/master/10001%20prime)        | Find the 10001st prime                       | Done  | -       | -       | -    |
